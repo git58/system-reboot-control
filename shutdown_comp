@@ -1,0 +1,3 @@
+echo 8 > /run/shut.txt
+amixer set Master off & amixer set Master toggle & beep -f 2200 -l 3000
+mplayer /home/iv/Музыка/zavershenie-raboty-cistemnyy-zvuk-windows-xp.mp3

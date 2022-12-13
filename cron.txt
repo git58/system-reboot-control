@@ -1,0 +1,2 @@
+@reboot  /usr/local/bin/check_shutdown_reboot_file
+*/1 * * * * /usr/local/bin/shutdown_or_reboot

@@ -1,0 +1,2 @@
+echo 9 > /run/shut.txt
+amixer set Master off & amixer set Master toggle & beep -f 2200 -l 3000
